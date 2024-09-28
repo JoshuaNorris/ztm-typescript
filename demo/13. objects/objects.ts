@@ -83,4 +83,3 @@ let home = {
 // Using dot notation, we can access fields from nested objects:
 home.coord.x = 1; // change the x coordinate to 1
 assert.deepEqual(home.coord, { x: 1, y: 0 });
-
