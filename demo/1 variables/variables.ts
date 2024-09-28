@@ -1,19 +1,11 @@
 /* eslint-disable */
 
-// A variable is a named memory location that can hold a value. Variables can
-// be used to store a wide range of data types, such as numbers, strings, and
-// arrays. A variable is declared by specifying its name, data type, and
-// optionally an initial value. Once a variable is declared, it can be read
-// or updated in other parts of the program.
-
-// string
 const courseName = "typescript";
-// string
 const someLetter = "k";
-// string
 const singleQuote = "i";
-// string
 const bquote = `hello`;
+
+// There is no difference between chars and strings in ts.
 
 // number
 const amount = 10;
